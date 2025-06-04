@@ -1,7 +1,8 @@
 
 1. Cada aluno deve:
 
-2. Criar uma branch para sua página (ex: git checkout -b pagina-aluno1).
+2. Criar uma branch para sua página (ex: git checkout -b pagina-
+altamir).
 
 3. Editar seu HTML em templates/aluno1.html.
 
