@@ -10,9 +10,9 @@ def index():
 def aluno1():
     return render_template('aluno1.html')
 
-@app.route('/aluno2')
-def aluno2():
-    return render_template('aluno2.html')
+@app.route('/glecia')
+def glecia():
+    return render_template('glecia.html')
 
 @app.route('/aluno3')
 def aluno3():
