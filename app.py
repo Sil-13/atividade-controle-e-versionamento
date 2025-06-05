@@ -14,9 +14,9 @@ def silvano():
 def glecia():
     return render_template('glecia.html')
 
-@app.route('/aluno3')
+@app.route('/Altamir')
 def aluno3():
-    return render_template('aluno3.html')
+    return render_template('Altamir.html')
 
 if __name__ == '__main__':
     app.run(debug=True)  
