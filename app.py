@@ -15,7 +15,7 @@ def glecia():
     return render_template('glecia.html')
 
 @app.route('/Altamir')
-def aluno3():
+def Altamir():
     return render_template('Altamir.html')
 
 if __name__ == '__main__':
